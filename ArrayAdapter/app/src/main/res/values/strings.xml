@@ -5,23 +5,23 @@
     <string name="nameAndSurname">Фамилия и имя</string>
     <string name="labelNewHuman">Новый человек:</string>
     <string-array name="womanName">
+        <item>Арина</item>
         <item>Анастасия</item>
-        <item>Валерия</item>
-        <item>Елизавета</item>
+        <item>София</item>
     </string-array>
     <string-array name="womanSurname">
-        <item>Белинская</item>
-        <item>Белозерова</item>
-        <item>Дмитриева</item>
+        <item>Проявина</item>
+        <item>Кокоурова</item>
+        <item>Щиголева</item>
     </string-array>
     <string-array name="manName">
-        <item>Евгений</item>
-        <item>Дмитрий</item>
-        <item>Владислав</item>
+        <item>Денис</item>
+        <item>Андрей</item>
+        <item>Валерий</item>
     </string-array>
     <string-array name="manSurname">
-        <item>Арсентьев</item>
-        <item>Ларкин</item>
-        <item>Грибанов</item>
+        <item>Афанасьев</item>
+        <item>Кададинский</item>
+        <item>Пялов</item>
     </string-array>>
 </resources>
