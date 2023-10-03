@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.currentweatherdatabinding.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/layout_full_info_fragment.xml.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/layout/full_info_fragment.xml"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/navigation_nav_graph.xml.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/layout_rv_item.xml.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/layout/rv_item.xml"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/layout_home_fragment.xml.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/layout/home_fragment.xml"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.currentweatherdatabinding.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.currentweatherdatabinding.app-main-7:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

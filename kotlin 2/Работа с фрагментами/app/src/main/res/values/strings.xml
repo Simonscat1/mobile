@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather2</string>
+    <string name="title">Введите город</string>
+    <string name="api_key">26dcbaa2166e40cba6b94a096b6af992</string>
+    <string name="city_for_search">Введите название города</string>
+    <string name="search">Поиск</string>
+
+    <string name="city_name">City name:</string>
+    <string name="wind_speed">Wind speed:</string>
+    <string name="temp">Temp:</string>
+    <string name="min_temp">Min temp:</string>
+    <string name="max_temp">Max temp:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="feels_like">Feels like:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="data">Data</string>
+
+    <string name="btn">Back</string>
+</resources>
