@@ -1,18 +1,18 @@
 [
     {
-        "merged": "com.example.currentweatherdatabinding.app-mergeDebugResources-4:/layout/rv_item.xml",
-        "source": "com.example.currentweatherdatabinding.app-main-7:/layout/rv_item.xml"
+        "merged": "com.example.currentweatherdatabinding.app-mergeDebugResources-39:/layout/rv_item.xml",
+        "source": "com.example.currentweatherdatabinding.app-main-42:/layout/rv_item.xml"
     },
     {
-        "merged": "com.example.currentweatherdatabinding.app-mergeDebugResources-4:/layout/full_info_fragment.xml",
-        "source": "com.example.currentweatherdatabinding.app-main-7:/layout/full_info_fragment.xml"
+        "merged": "com.example.currentweatherdatabinding.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "com.example.currentweatherdatabinding.app-main-42:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.currentweatherdatabinding.app-mergeDebugResources-4:/layout/activity_main.xml",
-        "source": "com.example.currentweatherdatabinding.app-main-7:/layout/activity_main.xml"
+        "merged": "com.example.currentweatherdatabinding.app-mergeDebugResources-39:/layout/full_info_fragment.xml",
+        "source": "com.example.currentweatherdatabinding.app-main-42:/layout/full_info_fragment.xml"
     },
     {
-        "merged": "com.example.currentweatherdatabinding.app-mergeDebugResources-4:/layout/home_fragment.xml",
-        "source": "com.example.currentweatherdatabinding.app-main-7:/layout/home_fragment.xml"
+        "merged": "com.example.currentweatherdatabinding.app-mergeDebugResources-39:/layout/home_fragment.xml",
+        "source": "com.example.currentweatherdatabinding.app-main-42:/layout/home_fragment.xml"
     }
 ]

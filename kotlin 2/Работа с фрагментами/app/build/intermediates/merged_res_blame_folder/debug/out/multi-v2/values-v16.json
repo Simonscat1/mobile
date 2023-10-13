@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.currentweatherdatabinding.app-mergeDebugResources-3:/values-v16/values-v16.xml",
+            "outputFile": "com.example.currentweatherdatabinding.app-mergeDebugResources-38:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kiryu\\.gradle\\caches\\transforms-3\\4b127c457e988fac315661cf1f595125\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\kazak\\.gradle\\caches\\transforms-3\\4b127c457e988fac315661cf1f595125\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\kiryu\\.gradle\\caches\\transforms-3\\0fe598b929848a430172025cd26e2cf2\\transformed\\appcompat-1.4.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\kazak\\.gradle\\caches\\transforms-3\\0fe598b929848a430172025cd26e2cf2\\transformed\\appcompat-1.4.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
