@@ -23,19 +23,19 @@
             android:id="@+id/button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="-> frag2" />
+            android:text="2" />
 
         <Button
             android:id="@+id/button3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="-> frag3" />
+            android:text="3" />
 
         <Button
             android:id="@+id/button5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="-> frag4" />
+            android:text="4" />
 
     </LinearLayout>
 </FrameLayout>

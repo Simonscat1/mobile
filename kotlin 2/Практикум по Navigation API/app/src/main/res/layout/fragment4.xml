@@ -25,21 +25,23 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             />
+
         <Button
             android:id="@+id/button6"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="=>act2" />
+            android:text="act2" />
         <Button
             android:id="@+id/button6_up"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="&lt;=" />
+
         <Button
             android:id="@+id/button7"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="=>frag3" />
+            android:text="3" />
 
     </LinearLayout>
 
